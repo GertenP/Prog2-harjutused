@@ -36,7 +36,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lemmikloom.cs" />
     <Compile Include="MainClass.cs" />
+    <Compile Include="Persoon.cs" />
     <Compile Include="Sõnum.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
